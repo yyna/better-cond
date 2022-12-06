@@ -1,1 +1,1 @@
-{:config-paths ["../resources/clj-kondo.exports/better-cond/better-cond"]}
+{:config-paths ["resources/clj-kondo.exports/better-cond/better-cond"]}
